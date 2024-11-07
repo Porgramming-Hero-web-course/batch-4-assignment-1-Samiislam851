@@ -6,3 +6,10 @@ function countWordOccurrences(sentence: string, word: string): number {
 }
 
 console.log(countWordOccurrences("I love typescript, typescript is my favorite language. I use typescript so much", "typescript"))
+
+
+
+
+
+
+
