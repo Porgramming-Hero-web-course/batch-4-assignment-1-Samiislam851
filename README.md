@@ -16,7 +16,6 @@ TypeScript’s static typing and advanced type features help make code safer, mo
   }
   ```
 Intersection Types combine multiple types into one, ensuring an object meets all type requirements. Created with an ampersand (&), intersections help create precise data structures.
-
 ```typescript
 type Address = { street: string; city: string; };
 type Contact = { name: string; phone: string; };
